@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+h1 {
+	text-align:center; 
+	color:	#641e1e;
+    margin: auto;
+    font-family: "Copperplate", Fantasy, sana-serif;
+		}
+img {
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+    width: 100px
+  		}
+.diva {
+     border-radius: 7px;
+     margin: auto;
+    	}
+div {
+	background-color:#c39a1c;
+    	}
+#one {
+	background-color:#1a472a;
+    width: 150px;
+    	}
+#two {
+	background-color:#222f5b;
+    width: 150px;
+    	}
+#three {
+	background-color:#ecb939;
+    width: 150px;
+    	}
+#four {
+	background-color:#ae0001;
+    width: 150px;
+    	}        
+p {
+	text-align: center;
+    font-size: 20px;  
+    	}
+
+</style>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<img src="https://i.pinimg.com/736x/40/fe/1c/40fe1c3db5a63b404561227cf9ed2b53.jpg"></img>
+<h1>The world of Harry Potter</h1>
+<div class="diva">
+<p>Harry Potter is a young wizard who discovers his magical abilities and attends Hogwarts School of Witchcraft and Wizardry. He faces many challenges, including a battle against the evil wizard Lord Voldemort. The series is filled with adventure, friendship, and magic.</p>
+<p> In this website you're going to learn a little bit more about some little things in the Harry Potter world you didnt pay much attantion to. </p>
+</div>
+
+<div id="one" class= "diva">
+<p style="color:#bebebe" > Ghosts  </p>
+</div >
+
+<div id="two" class= "diva">
+<p style="color:#946b2d" > Potions  </p>
+</div >
+
+<div id="three" class= "diva">
+<p style="color:#372e29" > Time-Turner  </p>
+</div >
+
+<div id="four" class= "diva">
+<p style="color:white" > Vampires  </p>
+</div >
+
+
+
+</body>
+</html>
+
+

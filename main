@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <style>
 
@@ -14,6 +14,28 @@ img {
  	margin-right: auto;
     width: 100px
   		}
+a:link {
+  color: #bebebe;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #bebebe;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #bebebe;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #bebebe;
+  background-color: transparent;
+  text-decoration: underline;
+  }
 .diva {
      border-radius: 7px;
      margin: auto;
@@ -56,7 +78,7 @@ p {
 </div>
 
 <div id="one" class= "diva">
-<p style="color:#bebebe" > Ghosts  </p>
+    <p><a href="https://github.com/dafnatz/HARRY-POTTER/commit/2758de1c2d768b2793c92e0810a05bb590781b87#diff-47f6ac508035dd58c289538e103b911da012b06cdf9612e6a104bd2031c2ed67">Ghosts</a></p>
 </div >
 
 <div id="two" class= "diva">

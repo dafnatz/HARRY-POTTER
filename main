@@ -24,18 +24,37 @@ a:visited {
   background-color: transparent;
   text-decoration: none;
 }
-
-a:hover {
-  color: #bebebe;
+#potions:link {
+  color: #ffd11a;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
+}
+#potions:visited {
+  color: #ffd11a;
+  background-color: transparent;
+  text-decoration: none;
+}
+#time:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+#time:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+} 
+#vampires:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+#vampires:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
 }
 
-a:active {
-  color: #bebebe;
-  background-color: transparent;
-  text-decoration: underline;
-  }
 .diva {
      border-radius: 7px;
      margin: auto;
@@ -82,15 +101,15 @@ p {
 </div >
 
 <div id="two" class= "diva">
-<p style="color:#946b2d" > Potions  </p>
+<p><a id="potions" href="https://github.com/dafnatz/HARRY-POTTER/blob/main/potions"> Potions </a> </p>
 </div >
 
 <div id="three" class= "diva">
-<p style="color:#372e29" > Time-Turner  </p>
+<p><a id="time" href="https://github.com/dafnatz/HARRY-POTTER/blob/main/time-turner"> Time-Turner  </a></p>
 </div >
 
 <div id="four" class= "diva">
-<p style="color:white" > Vampires  </p>
+<p><a id="vampires" href="https://github.com/dafnatz/HARRY-POTTER/blob/main/vampires"> Vampires  </a></p>
 </div >
 
 

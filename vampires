@@ -1,0 +1,59 @@
+    <!DOCTYPE html>
+<html>
+    <style>
+body{
+    background-color:#fff5e9 ;
+    }
+h1 {
+    text-align:center;
+    font-family: Luminari , fantasy;
+        }
+div{
+     width: 100%;
+    background-color: #870202;
+    border-radius:7px;
+    
+        }
+p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+        }
+#diva {
+         width: 100%;
+    background-color: #d6b8aa;
+    border-radius:7px;
+        }
+#par {
+        font-size: 15px;
+        color: black;
+        }
+
+    </style>
+<head>
+</head>
+<body>
+
+<h1>VAMPIRES IN HARRY POTTER!</h1>
+
+<div>
+    <p> Although vampires exist in the world of Harry Potter, as shown by the literature that Harry and his friends study in Defence Against the Dark Arts, they play no meaningful part in the story.
+        The vampire myth is so rich, and has been exploited so many times in literature and on film, that I felt there was little I could add to the tradition. 
+        In any case, vampires are a tradition of Eastern Europe, and in general I tried to draw from British mythology and folklore when creating adversaries for Harry. 
+        Aside from passing mentions, therefore, the only vampire whom Harry meets in the books is Sanguini in Half-Blood Prince, who makes a faintly comic appearance at a party.</p>
+</div>
+
+<div id="diva"> 
+    <p id="par">ALooking back through my earliest notebooks, however, I found that on my very earliest list of staff, there was a subjectless vampire teacher I had forgotten, called "Trocar". 
+        A Trocar is a sharply pointed shaft inserted into arteries or cavities to extract bodily fluids, so I think it a rather good name for a vampire. 
+        Evidently I did not think much of him as a character, though, because he disappears fairly early on in my notes.
+    <br>
+    For a long time there was a persistent fan rumour that Snape might be a vampire.
+    While it is true that he has an unhealthy pallor, and is sometimes described as looking like a large bat in his long black cloak, he never actually turns into a bat, we meet him outside the castle by daylight, and no corpses with puncture marks in their necks ever turn up at Hogwarts. 
+    In short, Snape is not a revamped Trocar.
+        </p>
+</div>
+</body>
+</html>
+
+
